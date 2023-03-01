@@ -9,5 +9,10 @@ https://wearefootify.club/
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://wearefootify.club/img/promo-overview-v2.png)
+
+
+## What I work on app
+
+
 
